@@ -5,3 +5,6 @@
 - [[Wiki Entries/Players/Affe McAffe|Affe McAffe]]  - Eamon
 - [[Wiki Entries/Players/Merrow Silverbreeze|Merrow Silverbreeze]] - Katy
 - ?? - Gordon
+
+# Session Notes
+- 0. [[Session Notes/Session 00|Session 00]]
