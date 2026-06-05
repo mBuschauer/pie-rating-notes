@@ -1,0 +1,6 @@
+- There are rare but occasional mentions of "God" every so often.
+- Some claim that [[Wiki Entries/Spirits and Gods/Greater Spirits/The Sun|The Sun]] is a Goddess and [[Wiki Entries/Spirits and Gods/Greater Spirits/The Moon|The Moon]] a God. In this interpretation:
+	- [[Wiki Entries/Spirits and Gods/Greater Spirits/The Sun|The Sun]] is responsible for life
+	- [[Wiki Entries/Spirits and Gods/Greater Spirits/The Moon|The Moon]] governs the afterlife. 
+- In some growing theocracy in the Southwest, they worship [[Wiki Entries/Spirits and Gods/Greater Spirits/The Sun|The Sun]] alone as an almighty Goddess of Fire and Land. 
+- Older, more frightening tales speak of a lost [[God of Knowledge and All Mortal Peoples]], and an evil deity who sought to destroy them.

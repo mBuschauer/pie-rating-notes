@@ -1,0 +1,3 @@
+- **Ability Score Increase.** Two different ability scores of your choice increase by 1.
+- **Skills.** You gain proficiency in one skill of your choice.
+- **Feat.** You gain one Feat of your choice.

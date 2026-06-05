@@ -1,0 +1,32 @@
+---
+tags:
+  - Location
+---
+- Aecor is a flat world, as in all of its geography is set on a rough disc shape with a border that drops off into [[Wiki Entries/Locations/The Abyss|The Abyss]]
+- The surface of Aecor is over 99% ocean water.
+- Islands tend to be grouped into archipelagos, presumably due to how mountain ranges formed prior to [[Wiki Entries/History/Events/The Flood|The Flood]]. 
+	- When the storm hit, only the places with the highest elevation remained uncovered. 
+- Islands can have an area of 1,000 square miles at the largest, but the majority of them tend to be around 100 square miles or smaller. 
+- There are likely thousands of islands across the ocean, and contact between them is, unsurprisingly, facilitated almost entirely by sea travel.
+
+- Sea travel is a uniquely difficult task in the world of post-[[Wiki Entries/History/Events/The Flood|Flood]] Aecor for several reasons.
+	- The location of islands is constantly changing. The Great Elemental of Earth ([[Wiki Entries/Spirits and Gods/Greater Spirits/Zaratan|Zaratan]]) is constantly moving every landmass, and it travels from the Northern Edge of Aecor to the Southern Edge in a winding pattern that changes every year. 
+	- Consistent navigation between population centers requires constant and detailed examination of the stars, which shift every night. People believe that the stars are spirits who watch over the goings-on of mortals, explaining why they loosely gather near inhabited islands.
+	- Even if a skilled crew can identify the location of the next island they are headed towards, taking a direct route runs the gambit of encountering other ships, many of which harbor desperate people or greedy tyrants willing to take what they can from anyone traveling on the lawless ocean. 
+		- Pirate encounters are more frequent in shallower waters, targeting smaller vessels making shipments between close islands. 
+		- Pirates that frequent the deeper parts of the ocean are likely to be very powerful and experienced, as they have to survive the harshest conditions and constant monster encounters. 
+		- Up in the Northeast, pirate attacks are very frequent. Any shipment that isn’t obviously protected by some sort of professional escort will be targeted by a pirate raid. 
+		- The general response to pirate raids if a ship is unprotected is a fast surrender and hoping they don’t take literally everything.
+	- Sea monsters are a less consistent threat, but a threat nonetheless. 
+		- Sea monsters attack predominately in deeper parts of the ocean, and they do attack pretty frequently. 
+			- Most voyages through deep waters are quite long, likely a month or so on the low end, and most ships can expect to at least have an encounter with a sea monster every month. 
+			- An encounter does not necessarily mean an attack, as more experienced crews are experts at detecting monsters before the monsters detect them and giving them a wide berth, but probably around half of all sea monster encounters result in an attack or at least an attempted attack. 
+			- Most sea monsters tend to back off if their targets resist enough, as very few of them are actually malicious. They are generally just hungry or trying to protect their territory.
+		- Bioluminescent giant serpents migrate across the world in frightening numbers (although in fairness they are said to be quite tame)
+		- Ancient [[Wiki Entries/Species/Krakens|Krakens]] lie in the caverns of underwater mountains in wait for the disturbance of potential prey
+		- Rabid [[Wiki Entries/Species/Dragons|Dragons]] glide amongst the clouds in search for a meal
+		- The ghosts of the damned supposedly rise from the depths to haunt the living
+	- Other natural formations that are said to break up the endless blue expanse of the ocean 
+		- Giant trees the size of small islands, though the vast majority are said to have died due to illness, age, or, by some accounts, being cut down
+		- Tall, relatively thin metal spires that stick out of the ocean like rusted javelins the width of a house.
+

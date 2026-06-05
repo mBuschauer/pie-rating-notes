@@ -1,0 +1,1 @@
+A practitioner of inferential divinometrics which is an eloquent way of saying that he cheats at gambling using magic.

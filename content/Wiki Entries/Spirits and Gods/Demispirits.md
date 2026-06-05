@@ -1,0 +1,3 @@
+- Biologically immortal beings that act as a midpoint and bridge between [[Wiki Entries/Spirits and Gods/Spirits|Spirits]] and mortal creatures. 
+- The most storied Demispirits are [[the Giants]], but they haven’t been seen in centuries. 
+- [[Wiki Entries/Species/Dragons|Dragons]] are Demispirits as well

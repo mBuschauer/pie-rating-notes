@@ -1,0 +1,11 @@
+---
+tags: Location
+---
+- The uttermost Northern island in the world, whose Northern “shore” looks directly over the edge of the world. 
+- It is a relatively lawless land, and historically has been controlled by warlords for as long as anyone can remember. 
+- Egalde is home to a port city of the same name which hosts a substantial amount of material wealth and a population of over 1,000 (despite its inconvenient location and harsh weather). 
+	- It is the last "stop" of the [[Northern Meridional Lane]].
+- At the center of the island is the stump of a great tree, a mile across at the base.
+	- It is said that the patron spirit of the island, [[Wiki Entries/Spirits and Gods/Spirits/Kish-Arcu|Kish-Arcu]], inhabits the tree
+	- The tree is rumored to have been destroyed in a show of individual force by a warlord over a century ago, and the island’s environment, both natural and spiritual, has been irreparably damaged as a result. 
+	- The island is remarkable stable, presumably due to the deep roots of the great tree
