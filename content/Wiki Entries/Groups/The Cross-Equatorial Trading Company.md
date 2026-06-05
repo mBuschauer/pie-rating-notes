@@ -2,6 +2,9 @@
 tags:
   - Group
   - Broken
+aliases:
+  - CETC
+  - Cross-Equatorial Trading Company
 ---
 - The richest, most prolific merchant organization in the East. 
 - They are well-known for their skilled and reliable captains and crews, who are experts at evading pirates and generally defending passengers and cargo. 

@@ -143,16 +143,29 @@ Class & Level: Soulknife Rogue 5
 - Born on [[Wiki Entries/Locations/Egalde|Egalde]]. They worshipped [[Wiki Entries/Spirits and Gods/Spirits/Kish-Arcu|Kish-Arcu]]
 - They were taught to be a [[Rules & Reference/Classes/Rogue/Soulknife|Soulknife]] by an old dude on their island. 
 - By 16, they reached like level 3 and used their abilities to acquire blackmail on local officials who were in league with pirates who stole from the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|The Cross-Equatorial Trading Company]] 
-- They sold this information to the CETC and got recruited (primarily to escape their island)
-- Saya was up north looking for anything to make a move against the [[Wiki Entries/Groups/Northern Warlords|Northern Warlords]] for the sake of the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|The Cross-Equatorial Trading Company]]. He heard rumors about the coalition (specifically their shared prison) and stowed away in the ship of Lady [[Wiki Entries/NPCs/Isa Zutame]], the Captain of the Starthief Pirates. He was unfortunately caught in the hold.
-
-- [[Wiki Entries/Players/Saya|Saya]] had on them a dagger, an expolorer's pack, leather armor, thieves's tools, a flag/badge of the CETC, a second set of traveler's tools and 10GP
-	- managed to smuggle in 10GP
-	- threw the flag/badge into the ocean (secretly)
+- They sold this information to the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]] and got recruited (primarily to escape their island)
+- Saya spent 9 years working for the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]], he's now 25. Most of his time was spent being a supportive agent.
+	- He helped people (agents/contacts) if they requested help. 
+	- If another spy requested help, they show up to help with whatever unglamorous task needs to be done
+	- He brought messages to and from his handler.
+- Most recently, Saya was assigned up north looking for anything to make a move against the [[Wiki Entries/Groups/Northern Warlords|Northern Warlords]] for the sake of the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|The Cross-Equatorial Trading Company]]. 
+	- He heard rumors about the coalition (specifically their shared prison) and stowed away in the ship of Lady [[Wiki Entries/NPCs/Isa Zutame]], the Captain of the Starthief Pirates. 
+	- He was unfortunately caught in the hold.
+- [[Wiki Entries/Players/Saya|Saya]] had on him a dagger, an expolorer's pack, leather armor, thieves's tools, a flag/badge of the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]], a second set of traveler's tools and 10GP
+	- Managed to smuggle in 10GP
+	- Managed to throw the flag/badge into the ocean (secretly)
 
 ## Bonds
-- They have a mentor from their island who taught them to be a Soulknife 
-- They have a rival in the CETC who constantly stirs trouble yet succeeds
-- There’s a pirate enemy out there with a grudge.
-- They have a family, two parents and a few youngers siblings
-- They’re not on bad terms with their family, they’ve just drifted apart as his ambitions took him from home
+- [[Wiki Entries/NPCs/Alpha|Alpha]], an old man living on [[Wiki Entries/Locations/Egalde|Egalde]] who taught Saya how to be a [[Rules & Reference/Classes/Rogue/Soulknife|Soulknife]] 
+- At some point while working for the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]], Saya pissed off [[Wiki Entries/NPCs/Gamma|Gamma]], now there’s a pirate  out there who hates him.
+- He has contacts at the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]]:
+	- [[Wiki Entries/NPCs/Beta|Beta]]: A fellow agent in the [[Wiki Entries/Locations/Northern Archipelagos|Northern Archipelagos]] who constantly stirs trouble yet somehow always succeeds. Saya finds this insufferable.
+	- [[Wiki Entries/NPCs/Delta|Delta]]: A friend and fellow operative - one of the few people Saya is close to. Is a few years older than him.
+	- [[Wiki Entries/NPCs/Epsilon|Epsilon]]: Saya's handler in the [[Wiki Entries/Locations/Northern Archipelagos|Northern Archipelagos]]. A careful, experienced CETC coordinator who's run operations in the Northeast for years.
+	- [[Wiki Entries/NPCs/Zeta|Zeta]]: A friend embedded in warlord networks. Slow to respond but trustworthy. 
+- He has a family:
+	- Mother: [[Wiki Entries/NPCs/Eta|Eta]]
+	- Father: [[Wiki Entries/NPCs/Theta|Theta]]
+	- Younger Brother: [[Wiki Entries/NPCs/Iota|Iota]]
+	- Youngest Brother: [[Wiki Entries/NPCs/Kappa|Kappa]]
+	- Saya is not on bad terms with his family, the last time he saw them was when he left [[Wiki Entries/Locations/Egalde|Egalde]]. He occasionally sends them letter letting them know he's still doing OK. Wants to go back at some point. 
