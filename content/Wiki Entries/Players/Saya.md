@@ -151,9 +151,6 @@ Class & Level: Soulknife Rogue 5
 - Most recently, Saya was assigned up north looking for anything to make a move against the [[Wiki Entries/Groups/Northern Warlords|Northern Warlords]] for the sake of the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|The Cross-Equatorial Trading Company]]. 
 	- He heard rumors about the coalition (specifically their shared prison) and stowed away in the ship of Lady [[Wiki Entries/NPCs/Isa Zutame]], the Captain of the Starthief Pirates. 
 	- He was unfortunately caught in the hold.
-- [[Wiki Entries/Players/Saya|Saya]] had on him a dagger, an expolorer's pack, leather armor, thieves's tools, a flag/badge of the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]], a second set of traveler's tools and 10GP
-	- Managed to smuggle in 10GP
-	- Managed to throw the flag/badge into the ocean (secretly)
 
 ## Bonds
 - [[Wiki Entries/NPCs/Alpha|Alpha]], an old man living on [[Wiki Entries/Locations/Egalde|Egalde]] who taught Saya how to be a [[Rules & Reference/Classes/Rogue/Soulknife|Soulknife]] 
