@@ -14,7 +14,7 @@ Class & Level: Soulknife Rogue 5
 > ---
 | HP | Temp| AC | Initiative | 
 |:---:|:---:|:---:|:---:|
-| 28/28 | 0 |  14 | +4 | 
+| 17/28 | 0 |  15 | +4 | 
 >
 > > [!|clean no-i left]
 > >
@@ -50,8 +50,8 @@ Class & Level: Soulknife Rogue 5
 >>>	- [ ] 
 >>>	- [ ] 
 >>> - **Inspiration**
->>>	- [ ] 
->>>	- [ ] 
+>>>	- [x] 
+>>>	- [x] 
 >>>	- [ ] 
 > 
 > > [!|clean no-i]
@@ -61,7 +61,7 @@ Class & Level: Soulknife Rogue 5
 | Animal Handling (Wis) | | | 
 | Arcana (Int) |  | |
 | Athletics (Str) | +3 | P |
-| Deception (Cha) |  |  |
+| Deception (Cha) | +6 | E |
 | History (Int) |  | |
 | Insight (Wis) |  | |
 | Intimidation (Cha) | | |
@@ -109,12 +109,12 @@ Class & Level: Soulknife Rogue 5
 | | [[Rules & Reference/Classes/Rogue#Steady Aim (Optional)\|Steady Aim]] |
 | | [[Rules & Reference/Classes/Rogue/Soulknife#Psionic Power\|Soulknife: Psionic Power]]: d6 |
 | | [[Rules & Reference/Classes/Rogue/Soulknife#Psychic Blades\|Soulknife: Psychic Blades]] |
-| | [[Rules & Reference/Classes/Rogue#Ability Score Improvement\|Ability Score Improvement:]] [[Rules & Reference/Feats/Gunner\|Gunner]]
+| | [[Rules & Reference/Classes/Rogue#Ability Score Improvement\|Ability Score Improvement:]] [[Rules & Reference/Feats/Skill Expert\|Skill Expert]] (Deception)
 | | [[Rules & Reference/Classes/Rogue#Uncanny Dodge\|Uncanny Dodge]]
 | **Racial Traits** | *Firblog* |
 | | [[Rules & Reference/Races/Firbolg#Firbolg Magic\|Firbolg Magic]]: 1/1 |
 | | [[Rules & Reference/Races/Firbolg#Hidden Step\|Hidden Step]] |
-| | [[Rules & Reference/Races/Firbolg#Speech of Beast and Leaf\|Speech of Beast and Land]]
+| | [[Rules & Reference/Races/Firbolg#Speech of Beast and Leaf\|Speech of Beast and Leaf]]
 > ---
 > ###### Inventory
 >
@@ -128,8 +128,8 @@ Class & Level: Soulknife Rogue 5
 | | | | |
 | -- | -- | -- | -- |
 | **Equipment:** |  |  |  | 
-| - | - | - | - |
-| - | - | - | - |
+| **Leather Armor** | Dagger | Expolorer's Pack | Thieves' Tools |
+| [[Wiki Entries/Items/Treespirit Bow\|Treespirit Bow]] |  |  |  |
 > ---
 > ###### Other Proficiencies & Languages
 > **Armor**: Light Armor
@@ -153,16 +153,16 @@ Class & Level: Soulknife Rogue 5
 	- He was unfortunately caught in the hold.
 
 ## Bonds
-- [[Wiki Entries/NPCs/Alpha|Alpha]], an old man living on [[Wiki Entries/Locations/Egalde|Egalde]] who taught Saya how to be a [[Rules & Reference/Classes/Rogue/Soulknife|Soulknife]] 
-- At some point while working for the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]], Saya pissed off [[Wiki Entries/NPCs/Gamma|Gamma]], now there’s a pirate  out there who hates him.
+- [[Wiki Entries/NPCs/Diru Khalia|Diru Khalia]], an old man living on [[Wiki Entries/Locations/Egalde|Egalde]] who taught Saya how to be a [[Rules & Reference/Classes/Rogue/Soulknife|Soulknife]] 
+- At some point while working for the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]], Saya pissed off [[Wiki Entries/NPCs/Anrol Thun|Anrol Thun]], now there’s a pirate  out there who hates him.
 - He has contacts at the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]]:
-	- [[Wiki Entries/NPCs/Beta|Beta]]: A fellow agent in the [[Wiki Entries/Locations/Northern Archipelagos|Northern Archipelagos]] who constantly stirs trouble yet somehow always succeeds. Saya finds this insufferable.
-	- [[Wiki Entries/NPCs/Delta|Delta]]: A friend and fellow operative - one of the few people Saya is close to. Is a few years older than him.
-	- [[Wiki Entries/NPCs/Epsilon|Epsilon]]: Saya's handler in the [[Wiki Entries/Locations/Northern Archipelagos|Northern Archipelagos]]. A careful, experienced CETC coordinator who's run operations in the Northeast for years.
-	- [[Wiki Entries/NPCs/Zeta|Zeta]]: A friend embedded in warlord networks. Slow to respond but trustworthy. 
+	- [[Wiki Entries/NPCs/Catarina Eldabast|Catarina Eldabast]]: A fellow agent in the [[Wiki Entries/Locations/Northern Archipelagos|Northern Archipelagos]] who constantly stirs trouble yet somehow always succeeds. Saya finds this insufferable.
+	- [[Wiki Entries/NPCs/Urzol Grey|Urzol Grey]]: A friend and fellow operative - one of the few people Saya is close to. Is a few years older than him.
+	- [[Wiki Entries/NPCs/Theodora Walker|Theodora Walker]]: Saya's handler in the [[Wiki Entries/Locations/Northern Archipelagos|Northern Archipelagos]]. A careful, experienced CETC coordinator who's run operations in the Northeast for years.
+	- [[Wiki Entries/NPCs/Aleck Rho|Aleck Rho]]: A friend embedded in warlord networks. Slow to respond but trustworthy. 
 - He has a family:
-	- Mother: [[Wiki Entries/NPCs/Eta|Eta]]
-	- Father: [[Wiki Entries/NPCs/Theta|Theta]]
-	- Younger Brother: [[Wiki Entries/NPCs/Iota|Iota]]
-	- Youngest Brother: [[Wiki Entries/NPCs/Kappa|Kappa]]
+	- Mother: [[Wiki Entries/NPCs/Kena|Kena]]
+	- Father: [[Wiki Entries/NPCs/Ilir|Ilir]]
+	- Younger Brother: [[Wiki Entries/NPCs/Thal|Thal]]
+	- Youngest Brother: [[Wiki Entries/NPCs/Jazyr|Jazyr]]
 	- Saya is not on bad terms with his family, the last time he saw them was when he left [[Wiki Entries/Locations/Egalde|Egalde]]. He occasionally sends them letter letting them know he's still doing OK. Wants to go back at some point. 

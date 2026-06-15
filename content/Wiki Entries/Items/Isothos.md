@@ -1,5 +1,7 @@
-  
-
+---
+alias: Isotho
+---
+ 
 - The most common [[Wiki Entries/History/Ancient Civilizations/Arlun|Arlunite]] technology that divers manage to find in a usable state are Isothos, or magic prosthetics. 
 - Something about the way they were constructed or maintained allowed more of them to survive [[Wiki Entries/History/Events/The Flood|The Flood]] than most types of [[Wiki Entries/History/Ancient Civilizations/Arlun|Arlunite]] tech. 
 - Due to the [[#Drawbacks]], people who actively destroy perfectly good organs or limbs to implant an Isotho replacement are generally considered to be mentally unstable on some level

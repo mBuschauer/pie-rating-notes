@@ -1,0 +1,13 @@
+---
+tags:
+  - NPC
+---
+- The first mate of the ship \<ship name\>
+- As part of an operation, [[Wiki Entries/Players/Saya|Saya]] reported [[Wiki Entries/NPCs/Anrol Thun|Anrol Thun]] for stealing something from a market stall
+	- Castor spent a few days in holding a cell over something embarrassing.
+	- There, as the operation intended, he met and befriended [[Wiki Entries/NPCs/Catarina Eldabast|Catarina Eldabast]] 
+	- They've since crossed paths with [[Wiki Entries/Players/Saya|Saya]] a handful of times in various port cities
+- [[Wiki Entries/NPCs/Anrol Thun|Anrol Thun]] genuinely just dislikes [[Wiki Entries/Players/Saya|Saya]]. 
+	- If their paths cross again, [[Wiki Entries/NPCs/Anrol Thun|Anrol Thun]] will jump [[Wiki Entries/Players/Saya|Saya]] (probably by himself)
+	- The grudge isn't grand, its personal and stupid; mostly involving street brawls.
+	- Maybe if [[Wiki Entries/NPCs/Anrol Thun|Anrol Thun]] happened to be in a position of power they'd plot something bigger 

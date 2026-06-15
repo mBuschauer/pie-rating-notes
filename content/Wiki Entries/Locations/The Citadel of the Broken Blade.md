@@ -3,3 +3,13 @@ tags:
   - Location
 ---
 - A prison under the control of [[Wiki Entries/NPCs/Silas Elé|Silas Elé]]
+- Situated on the island of [[Wiki Entries/Locations/Lesser Alzehom]]
+- Has a intake port for prisoners on the western shore 
+	- The port is made of black stone. 
+	- There is a gate made of stone 
+	- The place a brutalist design
+	- The place seems worn down and old
+	- There's a lot of fog and a steep mountain above
+	- There's a massive steel blade embedded in the mountain
+- There is a general port on the northern side (where the guard barracks and warehouses are)
+- The foundation of the buildsare [[Wiki Entries/History/Ancient Civilizations/Arlun|Arlunite]] ones - new construction on top of ones that predate the flood

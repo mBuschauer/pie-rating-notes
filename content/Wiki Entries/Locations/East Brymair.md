@@ -1,4 +1,4 @@
 ---
 tags:
-  - NPC
+  - Location
 ---

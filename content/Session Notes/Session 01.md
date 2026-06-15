@@ -1,0 +1,73 @@
+---
+tags:
+  - Session
+Date: 2026-06-07
+---
+- We start on a ship, over the course of a few days the party was gathetered into the hold of this oddly long hold. 
+	- The magic users are inscribed with circles that suppress magic?? 
+	- Hands were bound behind, bound to floor sitting down
+- Introductions!
+	- [[Wiki Entries/Players/Gynis Jaeger|Gynis Jaeger]] - Sitting on the ground, muttering.
+	- There are two other "high risk" prisoners
+		- [[Wiki Entries/NPCs/Isabella Hilid|Isabella]] - an old human woman. She has lots of burn scars and a replaced leg
+		- [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] - A moon elf man, skinny (old) pink skin, silver eye short white hair with cut scars and [[Wiki Entries/Items/Isothos|isotho]] hands + eyes
+- [[Wiki Entries/Players/Orbit Mudfoot|Orbit Mudfoot]] has been trying to convince the guards to let him go. The guards are kind of just ignoing him.
+	- The two guards are older, 30/40+ (which is kinda unc)
+- [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] tries to talk to [[Wiki Entries/Players/Gynis Jaeger|Gynis]] and it uhh  (he might hate people)
+- People with magic dampenig cuffs (not [[Wiki Entries/Players/Saya|Saya]]) are suffering and have to roll con
+- [[Wiki Entries/Players/Saya|Saya]] takes a look at the moon elf guy ([[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]])
+	- All the scars seem oddly clean; the kind that comes from mishandling a blade
+	- His missing hand and eye seem to be the result of a clean cut
+- For the human woman ([[Wiki Entries/NPCs/Isabella Hilid|Isabella]]), the burn scars seem that of gunpowder/explosion
+- [[Wiki Entries/Players/Affe McAffe|Affe McAffe]] rolls a coin over to [[Wiki Entries/Players/Serim|Serim]] who wants seems to badly want to write its uhh an odd exchange though and people are confused (if only there was somebody here who could help with this)
+	- [[Wiki Entries/Players/Serim|Serim]] starts drawing a map? 
+- Old moon elf guy is named [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]], he came very recently. He was smuggling weapons to the prison
+	- He's a doomer
+	- We might not be able to escape from [[Wiki Entries/Locations/The Citadel of the Broken Blade|The Citadel of the Broken Blade]]
+	- He's wrong tho, we low diff
+	- The prison covers the entire islands; the conditions are bleak
+	- Part of his torso/chest might also be an [[Wiki Entries/Items/Isothos|Isotho]]
+- Through shennanigans (I gave up taking notes on this) we eventually reach [[Wiki Entries/Locations/The Citadel of the Broken Blade|The Citadel of the Broken Blade]]
+	- One of these shennanigans involves a large rat
+- We're led out of the ship, the port is made of black stone. The gate is made of stone and has a brutalist design
+	- The place seems worn
+	- There's a lot of fog and a steep mountain above
+	- There's a massive steel blade embedded in the stone of the mountain
+	- Ahead, lit by braziers there are lines of guards 
+	- We're marched toward the prison :pensieve:
+	- The guards are armed with a pike and flintlock rifle
+	- Theyre dressed differently than the guards on the boat (at least thats how they present themselves)
+- When [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] stands there's a hum (his spine might be replaced)
+	- Torso and organ [[Wiki Entries/Items/Isothos|Isotho]] are very expensive
+- We can see a person ([[Wiki Entries/NPCs/Silas Elé|Silas Elé]]) standing on top of the gate turn to face us and yell out
+	- He has an intimidating greataxe
+	- Dramatic plate armor and shit
+	- He looks upset(?) at [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]]
+	- The rat gets shot and goes to a farm up state
+	- A prisoner tries to run and gets shot
+- We get herded deeper into the center(?) of the prison
+	- We make it to our block!!
+	- We get shoved into the yard, they unlatch our restraints
+	- They press the brands onto the restraints and they break apart
+	- They shove us into the yard and then close the second gate behind us
+	- It smells vaguely of seawater but it seems like a bare yard
+	- We can see open faced cells (a panopticon)
+- Some of the tables smell of like seawater
+	- Its because of "the lobster"
+	- They dump boiled lobster onto the table for feeding?
+- We meet an air genasi [[Vosix]] who seems friendlyish
+	- She was captured by [[Ghiya Kezai]], the warlord who proceeded the current warlord of [[Wiki Entries/Locations/East Brymair]]
+- [[Wiki Entries/Players/Orbit Mudfoot|Orbit]] got their [[Wiki Entries/Items/Isothos|Isotho]] from diving
+- [[Wiki Entries/Players/Gynis Jaeger|Gynis]] recognizes a rock gnome from their hometown? Theyre still being mysterious
+	- [[Orson Yoris]], rock gnome librarian
+	- He's talking to a weretiger ([[Wiki Entries/NPCs/Ashiranji|Ashiranji]]) and a bronze dragonborn
+- [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] is planning to see how the situation in the mines is and work from there
+	- points to [[Wiki Entries/NPCs/Ashiranji|Ashiranji]], who probably has the highest chance of escaping
+- We get sent to the mines (to mine stuff)
+	- [[Wiki Entries/Players/Serim|Serim]] gets into a fight with [[Wiki Entries/NPCs/Isabella Hilid|Isabella]]
+		- Also tries to trip a guard?
+	- We get some ore and stuff 
+	- [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] tries and talk to some lizards 
+		- We bartered to feed them lobster for a favor
+	- We plan to steal a disguise from the guards and then sneak out
+	- Some of the guards are advanced mages 

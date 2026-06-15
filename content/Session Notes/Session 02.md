@@ -1,0 +1,82 @@
+---
+tags:
+  - Session
+Date: 2026-06-14
+---
+- We face many skill issues ([[Wiki Entries/Players/Frank Orderly|Frank]] is still unwell)
+	- They start talking about lines of credit and summon over a capitalist pig? They seem to be a southern merchant
+- along the path to the mines are taller guard towers, they talk into a small rock??
+- We enter the mines and talk to [[Wiki Entries/NPCs/Ashiranji|Ashiranji]] about what happens if someone were to suffer an accident in the mines (god forbid)
+- [[Wiki Entries/Players/Affe McAffe|Affe]] pretends to be a dead body (we're gonna summon the guards and shove them into a hole)
+	- We manage to lure a guard over the pit
+		- [[Wiki Entries/Players/Saya|Saya]] fails to steal the dagger from off his nicl
+		- [[Wiki Entries/Players/Gynis Jaeger|Gynis]] manages to shove him into the pit
+		- He shoots [[Wiki Entries/Players/Orbit Mudfoot|Orbit]] and blasts him into the air
+		- [[Wiki Entries/Players/Saya|Saya]] kills him with a pickaxe to the head
+	- [[Wiki Entries/Players/Frank Orderly|Frank Orderly]] manages to steal the longsword off the other guard
+		- [[Wiki Entries/NPCs/Isabella Hilid|Isabella]] and [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] trip the other guard, they succeed and knock him prone 
+		- [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] manages to grab all his stuff
+		- [[Wiki Entries/Players/Affe McAffe|Affe]] grabs the longsword from [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel ]] and stabs him
+		- He dies, [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] steals his shit (Breastplate, Caltrops, Grappling Hook)
+- [[Wiki Entries/Players/Saya|Saya]] jumps down into the pit with the dead guys body and steals a bunch of stuff and climbs back out dropping the pike
+- [[Wiki Entries/Players/Affe McAffe|Affe]] and [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] are to dress as guards and go lure the ones outside by informing them of a minor discovery
+- We look down the pit we plan to throw the second guards down and see its 120ft deep, there's a river down there
+	- We toss one of the guard bodies down there, there are sounds of meat eating creatures down there so maybe bad idea to go down there
+- [[Wiki Entries/Players/Affe McAffe|Affe]] and [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] head outside
+	- they convince the guards to come in and manage to shove the guard captain into the pit
+	- We start stabbing 
+	- [[Wiki Entries/Players/Frank Orderly|Frank]] grabs the magic shackles key and breaks his own shackles
+	- [[Wiki Entries/NPCs/Ashiranji|Ashiranji]] also breaks his magic cuffs and becomes a [[Wiki Entries/Spirits and Gods/Demispirits|demispirit]] again and starts recovering (body is more ethereal)
+	- [[Wiki Entries/Players/Orbit Mudfoot|Orbit]], yet again, gets absolutey dogged and is very low but is healed by [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]]
+	- [[Wiki Entries/Players/Frank Orderly|Frank]] kills the guard captain at the bottom of the pit, [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] kills the guy who isn't 
+	- [[Wiki Entries/NPCs/Ashiranji|Ashiranji]] fucks off to go help the spirit of the mountain (phases through the ground)
+	- We take a short rest and then decide to head out at the end of the shift
+- At the end of the shift, four of us dress up as guards ([[Wiki Entries/Players/Merrow Silverbreeze|Merrow Silverbreeze]], [[Wiki Entries/Players/Affe McAffe|Affe McAffe]], [[Wiki Entries/NPCs/Isabella Hilid|Isabella]] and [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]])
+	- The rest of us hide in the ore cart
+	- [[Wiki Entries/Players/Saya|Saya]] connects everyone (except [[Wiki Entries/Players/Serim|Serim]] and [[Wiki Entries/Players/Gynis Jaeger|Gynis]]) to them telepathically
+	- Someone in the guard tower communicates when they see the four guards
+	- We get to the split off point, all four guards stay with the cart
+	- They head towards the guard barracks, which leads into a tunnel inside of the mountain
+	- The four guards are asked to deposit their weapons, they say they lost one pike but they have the rest of the weapons
+	- They asked for the four guards' name, they pass by but she says she'll have to talk to the supermax block warden about the incident
+	- [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] and [[Wiki Entries/NPCs/Isabella Hilid|Isabella]] sneak the cart into a dark and secluded warehouse
+		- Its probably the place where everybody's items are deposited!!
+		- We summon back [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] and [[Wiki Entries/Players/Affe McAffe|Affe]]
+		- Most of the warehouse is empty except for boxes in the back and there's an armory in the back (the one [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel ]] was planning to bring and distribute)
+			- He has any mundane weapon and a few speciality items
+		- We enter a backroom which seems to be a kind of locker room of stuff
+		- [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] finds two arms and reveals his torso [[Wiki Entries/Items/Isothos|isotho]] 
+			- He attaches 2 more arms to himself (he has 4 arms now)
+		- [[Wiki Entries/NPCs/Isabella Hilid|Isabella]] grabs an odd spherical thing that circles around her, a magitech balista and some chain armor
+		- Everyone finds their stuff ([[Wiki Entries/Players/Orbit Mudfoot|Orbit]] with the help of [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]])
+	- In his armory, [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] has a few magical items (besides the scholar dagger he gives [[Wiki Entries/Players/Frank Orderly|Frank]])
+		- [[Wiki Entries/Players/Saya|Saya]] the [[Wiki Entries/Items/Treespirit Bow|Treespirit Bow]] from him
+- We head out of the warehouse
+	- We hear a commotion coming from the docks, there's a big ship(s) that have seemingly arrived
+	- It's not terror/screaming as much as 'what a surprise'
+	- This might be the flagship of [[Wiki Entries/NPCs/Caden Morissa|Caden Morissa]] (the guy who captured [[Wiki Entries/Players/Frank Orderly|Frank Orderly]])
+	- Also seems like [[Wiki Entries/NPCs/R'kaal Elisir|R'kaal Elisir]] ship is on the horizon
+	- It seems like a lot of ships are arriving, more and more from the fog 
+	- We don't know what to do, we kind of just stall and wait for the situation to progress
+	- Apparently 'soverigns' are gathering (probably references the warlords)
+		- There's also a tournament soon? 
+	- All of our captors are here, including smaller warlords we've never heard of
+	- [[Wiki Entries/Players/Saya|Saya]] gets on top of the roof, invisible
+		- There's about 20 docked, large ships. Expensive. Massive.
+		- Large processions of people with warlords at the front of each leaving the ship and heading south
+		- [[Wiki Entries/Players/Saya|Saya]] sneaks onto a nearby roof closer to the port and tries to eavesdrop on the happenings of the port
+			- Soverigns, chained kings? Its supposed to be later this year? All of them are super excited and seem to know exactly whats happening
+			- The two guards on duty are grumbling about missing it but are excited about going to the tournament 
+			- By the end, there are 50-100 ships for hours past until past midnight, but there's still a shit ton of excitement. Magical light, excitement, etc. 
+			- Its around 1am, we decide there's no time like the present 
+			- As he's about to leave, they hear some guards approaching who are talking about escaped prisoners (they have "the big guy" with them to sniff us out)
+				- They have't told a warden or the warlords
+			- think maybe two addition guards, who are wearing heavy armor and a big thundering footsteps so a total of 6 people
+- We decide to first try to talk our way out of it (they found a bomb on [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]]'s stuff). If that fails, then we fight and if that fails we water breathing and swim to a ship
+	- We try the talking, the two fancy guards appear and an [[Wiki Entries/Species/Giants#Oni|Oni]]
+	- The talking goes terribly and the [[Wiki Entries/Species/Giants#Oni|Oni]] pulls its sword out, the guards threaten us  and uhh its time to fight or die ig
+	- Its uhh going, magic missiles and [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel ]] doing a bunch of damage
+	- We're whittling down the guards, [[Wiki Entries/Players/Orbit Mudfoot|Orbit]] is still working on the sails
+	- The last standing guard might be the worst person alive and tattles on his phone
+	- [[Wiki Entries/Players/Saya|Saya]] cannot hit and gets crit on
+	- We down the last guard and run to [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]]'s ship
