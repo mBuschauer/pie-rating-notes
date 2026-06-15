@@ -10,4 +10,6 @@
 
 # Session Notes
 0. [[Session Notes/Session 00|Session 00]]
-1. 
+1. [[Session Notes/Session 01|Session 01]]
+2. [[Session Notes/Session 02|Session 02]]
+3. [[Session Notes/Session 03|Session 03]]
