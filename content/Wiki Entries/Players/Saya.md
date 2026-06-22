@@ -1,7 +1,7 @@
 ---
 tags:
   - Player
-Class & Level: Soulknife Rogue 5
+Class & Level: Soulknife Rogue 6
 ---
 > [!statblocks|full tbl-u-1]
 > 
@@ -14,7 +14,7 @@ Class & Level: Soulknife Rogue 5
 > ---
 | HP | Temp| AC | Initiative | 
 |:---:|:---:|:---:|:---:|
-| 22/33 | 0 |  15 | +4 | 
+| 33/33 | 0 |  15 | +4 | 
 >
 > > [!|clean no-i left]
 > >
@@ -35,8 +35,8 @@ Class & Level: Soulknife Rogue 5
 >>
 >>> [!checks|no-t clean left]
 >>> - **Hit Dice (d8)**
->>>	- [ ] 
->>>	- [ ] 
+>>>	- [x] 
+>>>	- [x] 
 >>>	- [ ] 
 >>>	- [ ] 
 >>>	- [ ] 
@@ -85,7 +85,7 @@ Class & Level: Soulknife Rogue 5
 >> [!checks| no-t clean]
 >> - **Resources:**
 >>	- [[Rules & Reference/Classes/Rogue/Soulknife#Psionic Power\|Psionic Power]]:
->>	- [ ] 
+>>	- [x] 
 >>	- [ ] 
 >>	- [ ] 
 >>	- [ ] 
@@ -100,7 +100,7 @@ Class & Level: Soulknife Rogue 5
 > 
 | | |
 | --- | --- |
-| **Class** | *Phantom Rogue 10*  |
+| **Class** | *Soulknife Rogue 6*  |
 | | | |
 | | [[Rules & Reference/Classes/Rogue#Expertise\|Expertise]]: Perception and Investigation |
 | | [[Rules & Reference/Classes/Rogue#Sneak Attack\|Sneak Attack]]: 3d6 |
@@ -113,7 +113,7 @@ Class & Level: Soulknife Rogue 5
 | | [[Rules & Reference/Classes/Rogue#Uncanny Dodge\|Uncanny Dodge]]
 | | [[Rules & Reference/Classes/Rogue#Expertise\|Expertise]]: Stealth
 | **Racial Traits** | *Firblog* |
-| | [[Rules & Reference/Races/Firbolg#Firbolg Magic\|Firbolg Magic]]: 1/1 |
+| | [[Rules & Reference/Races/Firbolg#Firbolg Magic\|Firbolg Magic]]: 0/1 |
 | | [[Rules & Reference/Races/Firbolg#Hidden Step\|Hidden Step]] |
 | | [[Rules & Reference/Races/Firbolg#Speech of Beast and Leaf\|Speech of Beast and Leaf]]
 > ---
