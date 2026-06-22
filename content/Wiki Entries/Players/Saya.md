@@ -7,14 +7,14 @@ Class & Level: Soulknife Rogue 5
 > 
 > ![[Saya.png|cover right circle htiny wtiny lp]]
 > # Saya
-> > [[Soulknife]] [[Rogue]] 5
+> > [[Soulknife]] [[Rogue]] 6
 > *[[Rules & Reference/Backgrounds/Marine|Marine]], [[Rules & Reference/Races/Firbolg|Firbolg]]*
 > *Neutral Good*
 > 
 > ---
 | HP | Temp| AC | Initiative | 
 |:---:|:---:|:---:|:---:|
-| 17/28 | 0 |  15 | +4 | 
+| 22/33 | 0 |  15 | +4 | 
 >
 > > [!|clean no-i left]
 > >
@@ -52,7 +52,7 @@ Class & Level: Soulknife Rogue 5
 >>> - **Inspiration**
 >>>	- [x] 
 >>>	- [x] 
->>>	- [ ] 
+>>>	- [x] 
 > 
 > > [!|clean no-i]
 | **Skills** | |
@@ -73,8 +73,8 @@ Class & Level: Soulknife Rogue 5
 | Persuasion (Cha) |  |  |
 | Religion (Int) | | |
 | Sleight of Hand (Dex) |  |  |
-| Stealth (Dex) | +7 |  P|
-| Survival (Wis) | +7 | P |
+| Stealth (Dex) | +10 |  P|
+| Survival (Wis) | +5 | P |
 >>
 > ---
 > ###### Attacks and Spellcasting
@@ -111,6 +111,7 @@ Class & Level: Soulknife Rogue 5
 | | [[Rules & Reference/Classes/Rogue/Soulknife#Psychic Blades\|Soulknife: Psychic Blades]] |
 | | [[Rules & Reference/Classes/Rogue#Ability Score Improvement\|Ability Score Improvement:]] [[Rules & Reference/Feats/Skill Expert\|Skill Expert]] (Deception)
 | | [[Rules & Reference/Classes/Rogue#Uncanny Dodge\|Uncanny Dodge]]
+| | [[Rules & Reference/Classes/Rogue#Expertise\|Expertise]]: Stealth
 | **Racial Traits** | *Firblog* |
 | | [[Rules & Reference/Races/Firbolg#Firbolg Magic\|Firbolg Magic]]: 1/1 |
 | | [[Rules & Reference/Races/Firbolg#Hidden Step\|Hidden Step]] |

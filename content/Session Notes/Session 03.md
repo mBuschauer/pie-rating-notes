@@ -3,3 +3,76 @@ tags:
   - Session
 Date: 2026-06-21
 ---
+- [[Wiki Entries/NPCs/Ezekiel Deneraj|Ezekiel]] is bringing us north, we're about to head into the fog cloud surrounding [[Wiki Entries/Locations/Lesser Alzehom|Lesser Alzehom]]
+	- If we continue, we end up in the area of the [[Wiki Entries/Locations/Dohmaq Isles|Dohmaq Isles]]
+	- We're trying to avoid heading actually into the fog 
+- We see a like serpent heading towards us
+    - [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] gets Prestigitation cast on her and flies over to talk to it
+    - It says hello to her and says its just following orders? Its talking in a human voice
+    - Spirit naga, corrupted minor spirit
+        - They make deals with "evil" people; their services in exchange for boons
+    - It attacks us with lightning and does so much damage
+    - We learn that killing it through "conventional" means will result in it having a grudge and coming back to kill us
+    - [[Wiki Entries/Players/Saya|Saya]] accidentally kills it with a dagger (fml)
+    - It uses its last words to threaten us
+- We approach the fog wall, it seems to be on one hand to keep things in but also to keep sailors from the outside uninterested from sailing towards it
+	- It will be hard to sail through it (because of the fog)
+	- We enter the fog and begin rowing
+	- We think we're being chased as the fog behind us seems to be cleared by something (maybe a ship with an aura that clears fog?)
+		- We decide to change course and head more north (rather than northeast)
+		- We eventually make it out of the fog, through the cold, and take a level of exhaustion
+		- We look for an island to hide on and spot a small (probably uninhabited) rock on the horizon 
+- [[Wiki Entries/Players/Frank Orderly|Frank]] looks at their gun and thinks they recognize a symbol on it from the Morissa house (possibly related to [[Wiki Entries/NPCs/Caden Morissa|Caden Morissa]])
+- We're talking about the [[Wiki Entries/Groups/Holy Council of the Goddess’ Children|Holy Council of the Goddess’ Children]]
+	- In the north, they're pretty chill and just mormon
+	- In the west, the commit warcrimes and do genocide (including wiping out local cultures and religions)
+	- [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] might support them
+	- The [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]] considers them "bad for business"
+- [[Wiki Entries/Players/Saya|Saya]] rolls perception and becomes a god of the ocean
+	- They seem to be searching the north east (where we were heading) and also the fog
+	- We have several hours before theyll find us (probably)
+- The island we pull up to is part of the [[Wiki Entries/Locations/Dohmaq Isles|Dohmaq Isles]]
+	- Its a small island, and we park our ship between two rocks
+	- Its a bit strange that the island is so uninhabited, especially because the [[Wiki Entries/Locations/Dohmaq Isles|Dohmaq Isles]] are densely populated
+	- We [[Rules & Reference/Spells/Tiny Hut|Tiny Hut]] it up on the boat
+	- [[Wiki Entries/Players/Serim|Serim]] takes the time to ask people about their opinion on the [[Wiki Entries/Groups/Holy Council of the Goddess’ Children|Holy Council of the Goddess’ Children]]
+- When we wake up, [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] notices a spiritual absence on the island
+	- We discuss it and go over some theories
+	- We talk about [[Wiki Entries/Players/Affe McAffe|Affe]]'s gun and how its weird (he calls it beautiful??)
+	- We eventually head inland, noticing there seems to be magic emitting from the center of the island, like smoke from a campfire
+	- We think there might be a fey nearby
+	- We find a weathered path on the island
+		- We suspect pre-flood stuff going on
+		- We find some columns with strange text on it (possibly related to the primordial language)
+		- This might be a temple, sort of?
+		- [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]] feels a fey, celestial, a geyser? 
+		- [[Wiki Entries/Players/Gynis Jaeger|Gynis]] is running towards everything 
+		- This might be a small opening to the [[First Afterlife]]
+			- A waiting room?
+			- In common spiritual belief, people go to a place after they die and taken to another place after [[Wiki Entries/Spirits and Gods/Greater Spirits/The Moon|The Moon]] 
+		- Worse option, it is a hole to the center of the earth (worse)
+- [[Wiki Entries/Players/Saya|Saya]] and [[Wiki Entries/Players/Gynis Jaeger|Gynis]] walk towards the structure
+	- Its a roofed, mini Parthenon, rectangular/square structure
+	- Inside of it are walls and an entrance that seems to go down a spiral staircase
+	- We're seeing a lot of conjuration, a lot of magic around here. Maybe some enchantment and illusion??
+	- There are a lot of murals with people wearing wooden masks?
+		- These have four arms
+		- There are smaller humanoid species, they come up to waist height to the humans
+	- We enter the structure and see more murals and the spiral staircase
+		- The murals are a bit defaced (literally)
+		- There is a mural of each of the [[Wiki Entries/Spirits and Gods/Greater Spirits/Elder Elementals|Elder Elementals]] in their corresponding cardinal directions with their faces scratched off
+			- scratched off by something with large claws
+			- at each of their feet are four prostrating figures 
+		- We decide to head down the staircase
+			- Inside is a large underground chamber, it is weathered and m o i s t (from seawater)
+				- not wading, but its up to the ankles
+			- an underground square room larger than the structure above
+			- surrounding us are humanoid statues of smiling monks, sitting cross legged - their eyes closed
+				- They seem to have been purpose made to be generic looking
+				- Except one of them, near the front, is wearing a necklace with a symbol of the [[Khardawi Monks]] (also [[Wiki Entries/NPCs/Ashiranji|Ashiranji]]'s religion)
+					- Ascetic practices are not common in [[Wiki Entries/Players/Merrow Silverbreeze|Merrow]]'s sect
+			- We feel like we're being "perceived"
+			- The monks feel like they might be breathing, through the movement of the air
+		- We turn around to leave and notice the staircase is missing
+		- We turn back and noticed one of the monks has stood up and has a hand raised in greeting
+		- [[Wiki Entries/Players/Gynis Jaeger|Gynis]] asks the monk, "Excuse me, are you dead?"

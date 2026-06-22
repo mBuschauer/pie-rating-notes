@@ -1,5 +1,7 @@
 ---
 tags:
+  - Session
+Date: 2026-05-31
 ---
 - [[Wiki Entries/Players/Saya|Saya]] had on him a dagger, an expolorer's pack, leather armor, thieves's tools, a flag/badge of the [[Wiki Entries/Groups/The Cross-Equatorial Trading Company|CETC]], a second set of traveler's tools and 10GP
 	- Managed to smuggle in 10GP
